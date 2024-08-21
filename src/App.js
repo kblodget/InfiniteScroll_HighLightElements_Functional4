@@ -30,8 +30,13 @@ const App = () => {
           },
           {
             updatedTime: "19 August 2024",
-            poc: "Kathy Wilde <webdeveloper_hacc@gmail.com>",
-            color: "blue",
+            poc: "Molly Baker <registration_hacc@gmail.com>",
+            color: "red",
+          },
+          {
+            updatedTime: "02 Feb. 2024",
+            poc: "Joe Downs <accounting_hacc@gmail.com>",
+            color: "yellow",
           },
           {
             updatedTime: "11 Nov. 2020",
